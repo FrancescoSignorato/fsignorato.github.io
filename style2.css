@@ -1,0 +1,7 @@
+#particles-js{
+    background: #051c2d;
+    width: 100vw;
+    height: 40vh;
+    z-index:0;
+    max-width: 100%;
+}
